@@ -1,0 +1,18 @@
+---
+---
+
+$section-headings-color: #606c71 !default;
+
+@import"{{ site.theme }}";
+
+.page-header{
+  color:#000000;
+  background-color:#FFCD00;
+}
+
+footer {
+  display: none !important;
+}
+
+
+
