@@ -21,8 +21,6 @@ The FP Dag will take place on April 22nd 2022, in the
 University's Library on the Utrecht Science Park. There is a tram
 nearby with regular trams to and from Utrecht CS.
 
-
-
 ## Talks
 
 If you would like to offer a talk, please reach out to the organizers.
@@ -35,8 +33,8 @@ If you would like to offer a talk, please reach out to the organizers.
 
 ## Dinner
 
-We will try to organise a group dinner at your own expense. We'll
-provide more information about the dinner later.
+We will end the day with a joint dinner (at your own expense). We'll
+provide more information about the dinner plans later.
 
 ## Registration
 
