@@ -24,7 +24,7 @@ nearby with regular trams to and from Utrecht CS.
 ## Talks
 
 If you would like to offer a talk, please send us an email with your
-title and abstract before April 11th.
+title and abstract before April 4th.
 
 ## Contact
 
