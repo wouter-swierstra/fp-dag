@@ -24,25 +24,25 @@ nearby with regular trams to and from Utrecht CS.
 ## Schedule
 
 
-|:-----------:|:--------------------------------------------|:---------------------------------------------------------------------------|
-| 09:30-10:00 | **Registration**                            |                                                                            |
-| 10:00-10:25 | [Manuel Chakravarty](#manuel-chakravarty)   | Scripting Blockchains — Functional or Imperative?                          |
-| 10:25-10:50 | Olav de Haas                                | Mechanizing proof outlines for imperative programs in Agda                 |
-| 10:50-11:15 | Johan Hidding                               | Entangled                                                                  |
-| 11:15-11:45 | **Break**                                   |                                                                            |
-| 11:45-12:10 | Roger Bosman                                | Getting a handle on (scoped) effects                                       |
-| 12:10-12:35 | [Tom Verhoeff](#tom-verhoeff)               | Backtracking without (Explicit) Recursion                                  |
-| 12:35-13:00 | Trevor McDonell                             | Accelerate                                                                 |
-| 13:00-14:30 | **Lunch**                                   |                                                                            |
-| 14:30-14:55 | [Steffen Michels](#steffen-michels)         | VIIA - A Complex Real-World TOP Application                                |
-| 14:55-14:20 | [Pieter Koopman](#pieter-koopman)           | Reducing the Power Consumption of IoT with Task-Oriented Programming       |
-| 14:20-14:50 | **Break**                                   |                                                                            |
-| 14:50-15:15 | [Birthe van den Berg](#birthe-van-den-berg) | Forward- or Reverse-Mode Automatic Differentiation: What's the Difference? |
-| 15:15-15:40 | Kiara Grouwstra                             | Typed program synthesizers: machine learning in Haskell                    |
-| 15:40-16:05 | Alejandro Serrano Mena                      | Generic Programming of All Kinds                                           |
-| 16:05-16:15 | Business meeting                            |                                                                            |
-| 16:15-17:15 | Borrel                                      |                                                                            |
-| 18:00       | Dinner                                      |                                                                            |
+|:-----------:|:--------------------------------------------------|:---------------------------------------------------------------------------|
+| 09:30-10:00 | **Registration**                                  |                                                                            |
+| 10:00-10:25 | [Manuel Chakravarty](#manuel-chakravarty)         | Scripting Blockchains — Functional or Imperative?                          |
+| 10:25-10:50 | Olav de Haas                                      | Mechanizing proof outlines for imperative programs in Agda                 |
+| 10:50-11:15 | Johan Hidding                                     | Entangled                                                                  |
+| 11:15-11:45 | **Break**                                         |                                                                            |
+| 11:45-12:10 | Roger Bosman                                      | Getting a handle on (scoped) effects                                       |
+| 12:10-12:35 | [Tom Verhoeff](#tom-verhoeff)                     | Backtracking without (Explicit) Recursion                                  |
+| 12:35-13:00 | Trevor McDonell                                   | Accelerate                                                                 |
+| 13:00-14:30 | **Lunch**                                         |                                                                            |
+| 14:30-14:55 | [Steffen Michels](#steffen-michels)               | VIIA - A Complex Real-World TOP Application                                |
+| 14:55-14:20 | [Pieter Koopman](#pieter-koopman)                 | Reducing the Power Consumption of IoT with Task-Oriented Programming       |
+| 14:20-14:50 | **Break**                                         |                                                                            |
+| 14:50-15:15 | [Birthe van den Berg](#birthe-van-den-berg)       | Forward- or Reverse-Mode Automatic Differentiation: What's the Difference? |
+| 15:15-15:40 | Kiara Grouwstra                                   | Typed program synthesizers: machine learning in Haskell                    |
+| 15:40-16:05 | [Alejandro Serrano Mena](#alejandro-serrano-mena) | The story of kind-generics: Generic Programming for GADTs                                           |
+| 16:05-16:15 | Business meeting                                  |                                                                            |
+| 16:15-17:15 | Borrel                                            |                                                                            |
+| 18:00       | Dinner                                            |                                                                            |
 
 ## Abstracts
 
@@ -145,6 +145,12 @@ higher-order differentia- tion, and more. With these abstractions and
 insights in place, this Pearl seeks—once and for all—to untangle the
 mystery of forward and, in particular, reverse-mode AD, making the
 technique more comprehensible, also for the non-expert.
+
+### Alejandro Serrano Mena -  The story of kind-generics: Generic Programming for GADTs <a id="alejandro-serrano-mena"></a>
+
+What led two PhD students at UU to develop yet another generic
+programming library? In this talk/story we look at those reasons, and
+how step by step the kind-generics library came into existence.
 
 ## Contact
 
