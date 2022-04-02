@@ -28,7 +28,7 @@ nearby with regular trams to and from Utrecht CS.
 | 09:30-10:00 | **Registration**                                  |                                                                            |
 | 10:00-10:25 | [Manuel Chakravarty](#manuel-chakravarty)         | Scripting Blockchains — Functional or Imperative?                          |
 | 10:25-10:50 | Olav de Haas                                      | Mechanizing proof outlines for imperative programs in Agda                 |
-| 10:50-11:15 | Johan Hidding                                     | Entangled                                                                  |
+| 10:50-11:15 | [Johan Hidding](#johan-hidding)                   | Entangled                                                                  |
 | 11:15-11:45 | **Break**                                         |                                                                            |
 | 11:45-12:10 | Roger Bosman                                      | Getting a handle on (scoped) effects                                       |
 | 12:10-12:35 | [Tom Verhoeff](#tom-verhoeff)                     | Backtracking without (Explicit) Recursion                                  |
@@ -39,7 +39,7 @@ nearby with regular trams to and from Utrecht CS.
 | 14:20-14:50 | **Break**                                         |                                                                            |
 | 14:50-15:15 | [Birthe van den Berg](#birthe-van-den-berg)       | Forward- or Reverse-Mode Automatic Differentiation: What's the Difference? |
 | 15:15-15:40 | Kiara Grouwstra                                   | Typed program synthesizers: machine learning in Haskell                    |
-| 15:40-16:05 | [Alejandro Serrano Mena](#alejandro-serrano-mena) | The story of kind-generics: Generic Programming for GADTs                                           |
+| 15:40-16:05 | [Alejandro Serrano Mena](#alejandro-serrano-mena) | The story of kind-generics: Generic Programming for GADTs                  |
 | 16:05-16:15 | Business meeting                                  |                                                                            |
 | 16:15-17:15 | Borrel                                            |                                                                            |
 | 18:00       | Dinner                                            |                                                                            |
@@ -73,6 +73,28 @@ nearby with regular trams to and from Utrecht CS.
  expressiveness. Afterwards, I will discuss some of the open questions
  around the choice of programming abstractions and how automata might
  provide a way forward.
+
+### Johan Hidding - Entangled - Literate Programming Improved<a id="johan-hidding"></a>
+
+Science is facing a major problem known as the reproducibility
+crisis. One of the supposed causes of this crisis is the lack of
+proper documentation and communication about the software used in the
+production of scientific results. To improve this situation, we should
+give researchers better tools to help them communicate software
+methodology. One such avenue of approach is to improve the usability
+of literate programming methods.  Programming with Entangled starts by
+creating Markdown files with embedded code blocks. These code blocks
+are live tangled to compilable source code. The source code can then
+also be edited, and Entangled feeds any changes back to the original
+content in the Markdown files. By taking this approach, Entangled
+functions independent of programming language or text editor.  Having
+a daemon that compiles annotated Markdown to source code, and possibly
+embeds research results into a science paper raises some interesting
+issues with the programmability of such a system. Entangled embeds a
+build-system (driven by Shake) and is entirely configurable through
+Dhall.  Incidentally, I found that using strongly typed functional
+languages offer abstractions that are the easiest to embed in a piece
+of scientific prose, of which I'll show some examples.
 
 ### Tom Verhoeff - Backtracking without (Explicit) Recursion<a id="tom-verhoeff"></a>
 
