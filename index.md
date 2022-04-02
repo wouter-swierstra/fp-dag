@@ -28,7 +28,7 @@ nearby with regular trams to and from Utrecht CS.
 | 09:30-10:00 | **Registration**                                  |                                                                            |
 | 10:00-10:25 | [Manuel Chakravarty](#manuel-chakravarty)         | Scripting Blockchains — Functional or Imperative?                          |
 | 10:25-10:50 | Olav de Haas                                      | Mechanizing proof outlines for imperative programs in Agda                 |
-| 10:50-11:15 | [Johan Hidding](#johan-hidding)                   | Entangled                                                                  |
+| 10:50-11:15 | [Johan Hidding](#johan-hidding)                   | Entangled - Literate Programming Improved                                                                  |
 | 11:15-11:45 | **Break**                                         |                                                                            |
 | 11:45-12:10 | Roger Bosman                                      | Getting a handle on (scoped) effects                                       |
 | 12:10-12:35 | [Tom Verhoeff](#tom-verhoeff)                     | Backtracking without (Explicit) Recursion                                  |
