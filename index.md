@@ -41,8 +41,8 @@ nearby with regular trams to and from Utrecht CS.
 | 15:15-15:40 | Kiara Grouwstra                                   | Typed program synthesizers: machine learning in Haskell                    |
 | 15:40-16:05 | [Alejandro Serrano Mena](#alejandro-serrano-mena) | The story of kind-generics: Generic Programming for GADTs                  |
 | 16:05-16:15 | Business meeting                                  |                                                                            |
-| 16:15-17:15 | Borrel                                            |                                                                            |
-| 18:00       | Dinner                                            |                                                                            |
+| 16:15-17:00 | Borrel                                            |                                                                            |
+| 17:30       | Dinner                                            |                                                                            |
 
 ## Abstracts
 
