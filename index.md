@@ -27,8 +27,8 @@ nearby with regular trams to and from Utrecht CS.
 |:-----------:|:--------------------------------------------------|:---------------------------------------------------------------------------|
 | 09:30-10:00 | **Registration**                                  |                                                                            |
 | 10:00-10:25 | [Manuel Chakravarty](#manuel-chakravarty)         | Scripting Blockchains — Functional or Imperative?                          |
-| 10:25-10:50 | Olav de Haas                                      | Mechanizing proof outlines for imperative programs in Agda                 |
-| 10:50-11:15 | [Johan Hidding](#johan-hidding)                   | Entangled - Literate Programming Improved                                                                  |
+| 10:25-10:50 | [Olav de Haas](#olaf-de-haas)                     | Mechanizing proof outlines for imperative programs in Agda                 |
+| 10:50-11:15 | [Johan Hidding](#johan-hidding)                   | Entangled - Literate Programming Improved                                  |
 | 11:15-11:45 | **Break**                                         |                                                                            |
 | 11:45-12:10 | Roger Bosman                                      | Getting a handle on (scoped) effects                                       |
 | 12:10-12:35 | [Tom Verhoeff](#tom-verhoeff)                     | Backtracking without (Explicit) Recursion                                  |
@@ -73,6 +73,23 @@ nearby with regular trams to and from Utrecht CS.
  expressiveness. Afterwards, I will discuss some of the open questions
  around the choice of programming abstractions and how automata might
  provide a way forward.
+
+### Olav de Haas - Mechanizing proof outlines for imperative programs in Agda <a id="olaf-de-haas"></a>
+
+Formal verification of imperative programs can be carried out on paper
+by annotating programs to obtain an outline of a proof. This process
+has been mechanized by the introduction of separation logic and
+computer assisted verification tools. However, the tools fail to
+achieve the readability and convenience of manual paper proof
+outlines. This is a pity, because getting ideas and proofs across is
+essential for scientific research. We introduce a mechanization for
+proof outlines of imperative programs to interactively write human
+readable outlines in the dependently typed programming language and
+proof assistant Agda. We achieve this by introducing practical syntax
+and proof automation to write concise proof outlines for a simple
+imperative programming language based on λ-calculus. The proposed
+solution results in proof outlines that combine the readability of
+paper proof outlines and the precision of mechanization.
 
 ### Johan Hidding - Entangled - Literate Programming Improved<a id="johan-hidding"></a>
 
