@@ -38,7 +38,7 @@ nearby with regular trams to and from Utrecht CS.
 | 14:55-14:20 | [Pieter Koopman](#pieter-koopman)                 | Reducing the Power Consumption of IoT with Task-Oriented Programming       |
 | 14:20-14:50 | **Break**                                         |                                                                            |
 | 14:50-15:15 | [Birthe van den Berg](#birthe-van-den-berg)       | Forward- or Reverse-Mode Automatic Differentiation: What's the Difference? |
-| 15:15-15:40 | Kiara Grouwstra                                   | Typed program synthesizers: machine learning in Haskell                    |
+| 15:15-15:40 | [Kiara Grouwstra](#kiara-grouwstra)                                   | Typed program synthesizers: machine learning in Haskell                    |
 | 15:40-16:05 | [Alejandro Serrano Mena](#alejandro-serrano-mena) | The story of kind-generics: Generic Programming for GADTs                  |
 | 16:05-16:15 | Business meeting                                  |                                                                            |
 | 16:15-17:00 | Borrel                                            |                                                                            |
@@ -184,6 +184,16 @@ higher-order differentia- tion, and more. With these abstractions and
 insights in place, this Pearl seeks—once and for all—to untangle the
 mystery of forward and, in particular, reverse-mode AD, making the
 technique more comprehensible, also for the non-expert.
+
+### Kiara Grouwstra - Typed program synthesizers: machine learning in Haskell <a id="kiara-grouwstra"></a>
+
+Traditionally fields like data science and machine learning have been
+dominated by Python. However, Python lacks many of the niceties of the
+functional languages we have come to love.  Using a case study on
+neural programming by example, I opted to implement the synthesizer
+model for my AI thesis using Haskell, using the HaskTorch framework.
+In this talk I demonstrate what coding machine learning models this
+way looks like and how it compares to Python equivalents.
 
 ### Alejandro Serrano Mena -  The story of kind-generics: Generic Programming for GADTs <a id="alejandro-serrano-mena"></a>
 
