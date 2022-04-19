@@ -35,13 +35,12 @@ nearby with regular trams to and from Utrecht CS.
 | 12:35-13:00 | Trevor McDonell                                   | Accelerate                                                                 |
 | 13:00-14:30 | **Lunch**                                         |                                                                            |
 | 14:30-14:55 | [Steffen Michels](#steffen-michels)               | VIIA - A Complex Real-World TOP Application                                |
-| 14:55-14:20 | [Pieter Koopman](#pieter-koopman)                 | Reducing the Power Consumption of IoT with Task-Oriented Programming       |
-| 14:20-14:50 | **Break**                                         |                                                                            |
-| 14:50-15:15 | [Birthe van den Berg](#birthe-van-den-berg)       | Forward- or Reverse-Mode Automatic Differentiation: What's the Difference? |
-| 15:15-15:40 | [Kiara Grouwstra](#kiara-grouwstra)                                   | Typed program synthesizers: machine learning in Haskell                    |
-| 15:40-16:05 | [Alejandro Serrano Mena](#alejandro-serrano-mena) | The story of kind-generics: Generic Programming for GADTs                  |
-| 16:05-16:15 | Business meeting                                  |                                                                            |
-| 16:15-17:00 | Borrel                                            |                                                                            |
+| 14:55-15:20 | [Pieter Koopman](#pieter-koopman)                 | Reducing the Power Consumption of IoT with Task-Oriented Programming       |
+| 15:20-15:50 | **Break**                                         |                                                                            |
+| 15:50-16:15 | [Birthe van den Berg](#birthe-van-den-berg)       | Forward- or Reverse-Mode Automatic Differentiation: What's the Difference? |
+| 16:15-16:40 | [Kiara Grouwstra](#kiara-grouwstra)                                   | Typed program synthesizers: machine learning in Haskell                    |
+| 16:40-17:05 | [Alejandro Serrano Mena](#alejandro-serrano-mena) | The story of kind-generics: Generic Programming for GADTs                  |
+| 17:05-17:15 | Business meeting                                  |                                                                            |
 | 17:30       | Dinner                                            |                                                                            |
 
 ## Abstracts
