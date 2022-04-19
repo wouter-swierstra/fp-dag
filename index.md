@@ -30,7 +30,7 @@ nearby with regular trams to and from Utrecht CS.
 | 10:25-10:50 | [Olav de Haas](#olaf-de-haas)                     | Mechanizing proof outlines for imperative programs in Agda                 |
 | 10:50-11:15 | [Johan Hidding](#johan-hidding)                   | Entangled - Literate Programming Improved                                  |
 | 11:15-11:45 | **Break**                                         |                                                                            |
-| 11:45-12:10 | Roger Bosman                                      | Getting a handle on (scoped) effects                                       |
+| 11:45-12:10 | [Roger Bosman](#roger-bosman}                                      | Getting a handle on (scoped) effects                                       |
 | 12:10-12:35 | [Tom Verhoeff](#tom-verhoeff)                     | Backtracking without (Explicit) Recursion                                  |
 | 12:35-13:00 | Trevor McDonell                                   | Accelerate                                                                 |
 | 13:00-14:30 | **Lunch**                                         |                                                                            |
@@ -112,6 +112,22 @@ build-system (driven by Shake) and is entirely configurable through
 Dhall.  Incidentally, I found that using strongly typed functional
 languages offer abstractions that are the easiest to embed in a piece
 of scientific prose, of which I'll show some examples.
+
+### Roger Bosman - Getting a handle on (scoped) effects<a id="roger-bosman"></a>
+
+Algebraic effects & handlers have become a standard approach for
+working with side-effects in functional programming
+languages. However, not all effects can be classified as algebraic;
+some need a more sophisticated handling. In particular, effects that
+have or create a delimited scope - called scoped effects - need
+special care.
+
+Although calculi have been designed with algebraic effects & handlers
+as first-class operations, calculus to support scoped effects &
+handlers in a similar matter is missing from the literature. In this
+presentation we cover our work to fill this gap: we present a novel
+calculus in which both algebraic and scoped effects & handlers are
+first-class.
 
 ### Tom Verhoeff - Backtracking without (Explicit) Recursion<a id="tom-verhoeff"></a>
 
