@@ -30,15 +30,15 @@ nearby with regular trams to and from Utrecht CS.
 | 10:25-10:50 | [Olav de Haas](#olaf-de-haas)                     | Mechanizing proof outlines for imperative programs in Agda                 |
 | 10:50-11:15 | [Johan Hidding](#johan-hidding)                   | Entangled - Literate Programming Improved                                  |
 | 11:15-11:45 | **Break**                                         |                                                                            |
-| 11:45-12:10 | [Roger Bosman](#roger-bosman)                                      | Getting a handle on (scoped) effects                                       |
+| 11:45-12:10 | [Roger Bosman](#roger-bosman)                     | Getting a handle on (scoped) effects                                       |
 | 12:10-12:35 | [Tom Verhoeff](#tom-verhoeff)                     | Backtracking without (Explicit) Recursion                                  |
-| 12:35-13:00 | Trevor McDonell                                   | Accelerate                                                                 |
+| 12:35-13:00 | [David van Balen](#david-van-balen)               | Optimising functional, parallel array languages                            |
 | 13:00-14:30 | **Lunch**                                         |                                                                            |
 | 14:30-14:55 | [Steffen Michels](#steffen-michels)               | VIIA - A Complex Real-World TOP Application                                |
 | 14:55-15:20 | [Pieter Koopman](#pieter-koopman)                 | Reducing the Power Consumption of IoT with Task-Oriented Programming       |
 | 15:20-15:50 | **Break**                                         |                                                                            |
 | 15:50-16:15 | [Birthe van den Berg](#birthe-van-den-berg)       | Forward- or Reverse-Mode Automatic Differentiation: What's the Difference? |
-| 16:15-16:40 | [Kiara Grouwstra](#kiara-grouwstra)                                   | Typed program synthesizers: machine learning in Haskell                    |
+| 16:15-16:40 | [Kiara Grouwstra](#kiara-grouwstra)               | Typed program synthesizers: machine learning in Haskell                    |
 | 16:40-17:05 | [Alejandro Serrano Mena](#alejandro-serrano-mena) | The story of kind-generics: Generic Programming for GADTs                  |
 | 17:05-17:15 | Business meeting                                  |                                                                            |
 | 17:30       | Dinner                                            |                                                                            |
@@ -138,6 +138,23 @@ how recursion is done in lambda calculus. It also illustrates why
 reasoning about object-oriented programs can be hard. I illustrate it
 in Haskell where it naturally gives rise to monads and their
 composition.
+
+### David van Balen - Optimising functional, parallel array languages <a id="david-van-balen"></a>
+
+We discuss some challenges of implementing optimisations in a compiler
+for a functional data-parallel array language.  These are
+implementation choices within the compiler: The programmer does not
+have to make these decisions, and will only notice their performance
+benefits.  In these languages we want to reduce memory pressure by
+maximising both fusion, which combines loops, and in-place updates,
+which enables re-use of existing arrays.  These two optimisations
+cannot be treated separately: The choice on which loops or kernels to
+fuse has implications on which operations can be performed in-place,
+and vice versa.  We show that the combination of these choices creates
+a difficult problem, and talk about how we explore its large solution
+space. We are currently implementing these optimisations, and will
+conclude with their integration in the compiler for Accelerate, a
+data-parallel array language embedded in Haskell.
 
 ### Steffen Michels - VIIA - A Complex Real-World TOP Application<a id="steffen-michels"></a>
 
