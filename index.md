@@ -36,11 +36,11 @@ nearby with regular trams to and from Utrecht CS.
 | 13:00-14:30 | **Lunch**                                         |                                                                            |
 | 14:30-14:55 | [Steffen Michels](#steffen-michels)               | VIIA - A Complex Real-World TOP Application                                |
 | 14:55-15:20 | [Pieter Koopman](#pieter-koopman)                 | Reducing the Power Consumption of IoT with Task-Oriented Programming       |
-| 15:20-15:50 | **Break**                                         |                                                                            |
-| 15:50-16:15 | [Birthe van den Berg](#birthe-van-den-berg)       | Forward- or Reverse-Mode Automatic Differentiation: What's the Difference? |
-| 16:15-16:40 | [Kiara Grouwstra](#kiara-grouwstra)               | Typed program synthesizers: machine learning in Haskell                    |
-| 16:40-17:05 | [Alejandro Serrano Mena](#alejandro-serrano-mena) | The story of kind-generics: Generic Programming for GADTs                  |
-| 17:05-17:15 | Business meeting                                  |                                                                            |
+| 15:20-15:45 | **Break**                                         |                                                                            |
+| 15:45-16:10 | [Birthe van den Berg](#birthe-van-den-berg)       | Forward- or Reverse-Mode Automatic Differentiation: What's the Difference? |
+| 16:10-16:35 | [Kiara Grouwstra](#kiara-grouwstra)               | Typed program synthesizers: machine learning in Haskell                    |
+| 16:35-17:00 | [Alejandro Serrano Mena](#alejandro-serrano-mena) | The story of kind-generics: Generic Programming for GADTs                  |
+| 17:00-17:05 | Business meeting                                  |                                                                            |
 | 17:30       | Dinner                                            |                                                                            |
 
 ## Abstracts
