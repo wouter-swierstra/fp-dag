@@ -32,7 +32,7 @@ nearby with regular trams to and from Utrecht CS.
 | 11:15-11:45 | **Break**                                         |                                                                            |
 | 11:45-12:10 | [Roger Bosman](#roger-bosman)                     | Getting a handle on (scoped) effects                                       |
 | 12:10-12:35 | [Tom Verhoeff](#tom-verhoeff)                     | Backtracking without (Explicit) Recursion                                  |
-| 12:35-13:00 | [David van Balen & Ivo Gabe de Wolff](#david-van-balen)               | Optimising functional, parallel array languages                            |
+| 12:35-13:00 | [David van Balen <br/> & Ivo Gabe de Wolff](#david-van-balen)               | Optimising functional, parallel array languages                            |
 | 13:00-14:30 | **Lunch**                                         |                                                                            |
 | 14:30-14:55 | [Steffen Michels](#steffen-michels)               | VIIA - A Complex Real-World TOP Application                                |
 | 14:55-15:20 | [Pieter Koopman](#pieter-koopman)                 | Reducing the Power Consumption of IoT with Task-Oriented Programming       |
