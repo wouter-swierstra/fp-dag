@@ -24,24 +24,24 @@ nearby with regular trams to and from Utrecht CS.
 ## Schedule
 
 
-|:-----------:|:--------------------------------------------------|:---------------------------------------------------------------------------|
-| 09:30-10:00 | **Registration**                                  |                                                                            |
-| 10:00-10:25 | [Manuel Chakravarty](#manuel-chakravarty)         | Scripting Blockchains — Functional or Imperative?                          |
-| 10:25-10:50 | [Olav de Haas](#olaf-de-haas)                     | Mechanizing proof outlines for imperative programs in Agda                 |
-| 10:50-11:15 | [Johan Hidding](#johan-hidding)                   | Entangled - Literate Programming Improved                                  |
-| 11:15-11:45 | **Break**                                         |                                                                            |
-| 11:45-12:10 | [Roger Bosman](#roger-bosman)                     | Getting a handle on (scoped) effects                                       |
-| 12:10-12:35 | [Tom Verhoeff](#tom-verhoeff)                     | Backtracking without (Explicit) Recursion                                  |
-| 12:35-13:00 | [David van Balen <br/> & Ivo Gabe de Wolff](#david-van-balen)               | Optimising functional, parallel array languages                            |
-| 13:00-14:30 | **Lunch**                                         |                                                                            |
-| 14:30-14:55 | [Steffen Michels](#steffen-michels)               | VIIA - A Complex Real-World TOP Application                                |
-| 14:55-15:20 | [Pieter Koopman](#pieter-koopman)                 | Reducing the Power Consumption of IoT with Task-Oriented Programming       |
-| 15:20-15:45 | **Break**                                         |                                                                            |
-| 15:45-16:10 | [Birthe van den Berg](#birthe-van-den-berg)       | Forward- or Reverse-Mode Automatic Differentiation: What's the Difference? |
-| 16:10-16:35 | [Kiara Grouwstra](#kiara-grouwstra)               | Typed program synthesizers: machine learning in Haskell                    |
-| 16:35-17:00 | [Alejandro Serrano Mena](#alejandro-serrano-mena) | The story of kind-generics: Generic Programming for GADTs                  |
-| 17:00-17:05 | Business meeting                                  |                                                                            |
-| 17:30       | Dinner                                            |                                                                            |
+|:-----------:|:--------------------------------------------------------------|:---------------------------------------------------------------------------|
+| 09:30-10:00 | **Registration**                                              |                                                                            |
+| 10:00-10:25 | [Manuel Chakravarty](#manuel-chakravarty)                     | Scripting Blockchains — Functional or Imperative?                          |
+| 10:25-10:50 | [Olav de Haas](#olaf-de-haas)                                 | Mechanizing proof outlines for imperative programs in Agda                 |
+| 10:50-11:15 | [Johan Hidding](#johan-hidding)                               | Entangled - Literate Programming Improved                                  |
+| 11:15-11:45 | **Break**                                                     |                                                                            |
+| 11:45-12:10 | [Birthe van den Berg](#birthe-van-den-berg)                   | Forward- or Reverse-Mode Automatic Differentiation: What's the Difference? |
+| 12:10-12:35 | [Tom Verhoeff](#tom-verhoeff)                                 | Backtracking without (Explicit) Recursion                                  |
+| 12:35-13:00 | [David van Balen <br/> & Ivo Gabe de Wolff](#david-van-balen) | Optimising functional, parallel array languages                            |
+| 13:00-14:30 | **Lunch**                                                     |                                                                            |
+| 14:30-14:55 | [Steffen Michels](#steffen-michels)                           | VIIA - A Complex Real-World TOP Application                                |
+| 14:55-15:20 | [Pieter Koopman](#pieter-koopman)                             | Reducing the Power Consumption of IoT with Task-Oriented Programming       |
+| 15:20-15:45 | **Break**                                                     |                                                                            |
+| 15:45-16:10 | [Roger Bosman](#roger-bosman)                                 | Getting a handle on (scoped) effects                                       |
+| 16:10-16:35 | [Kiara Grouwstra](#kiara-grouwstra)                           | Typed program synthesizers: machine learning in Haskell                    |
+| 16:35-17:00 | [Alejandro Serrano Mena](#alejandro-serrano-mena)             | The story of kind-generics: Generic Programming for GADTs                  |
+| 17:00-17:05 | Business meeting                                              |                                                                            |
+| 17:30       | Dinner                                                        |                                                                            |
 
 ## Abstracts
 
