@@ -16,10 +16,13 @@ are equally welcome.
 
 ## When and where
 
-The FP Dag will take place on April 22nd 2022, in the
+The FP Dag took place on April 22nd 2022, in the
 [Boothzaal](http://www.cs.uu.nl/docs/reach/booth/) of the Utrecht
 University's Library on the Utrecht Science Park. There is a tram
 nearby with regular trams to and from Utrecht CS.
+
+The next edition of the FP Dag will be held in Eindhoven. You can find
+[more details on the website](https://set.win.tue.nl/nl-fp-day-2023/).
 
 ## Schedule
 
