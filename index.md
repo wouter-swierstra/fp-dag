@@ -5,7 +5,7 @@ description: January 8th, 2027
 
 ## Welcome
 
-The Dutch Functional Programming Day *(also known as the FP Dag)* is
+The Dutch Functional Programming Day (also known as the *FP Dag*) is
 an annual gathering of researchers, students, and practitioners
 sharing a common interest in functional programming. The day features
 talks that cover the latest advances in research, teaching, and
