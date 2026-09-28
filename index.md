@@ -17,9 +17,9 @@ are equally welcome.
 ## When and where
 
 The FP Dag took place on January 8th 2027, in the
-[Boothzaal](http://www.cs.uu.nl/docs/reach/booth/) of the Utrecht
-University's Library on the Utrecht Science Park. There is a tram
-nearby with regular trams to and from Utrecht CS.
+[Boothzaal](https://www.uu.nl/universiteitsbibliotheek/praktisch/zalen-usp)
+of the Utrecht University's Library on the Utrecht Science Park. There
+is a tram nearby with regular trams to and from Utrecht CS.
 
 
 * Wouter Swierstra (w.s.swierstra@uu.nl)
@@ -32,8 +32,8 @@ provide more information about the dinner plans later.
 
 ## Registration
 
-Registration is free of charge, but please [register before April
-15th](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=oFgn10akD06gqkv5WkoQ5_VdOXLzHglMjIFQp5UoBmdUQkpMQlVIV0NGTUtNSklKMEQyVkVQUExOWS4u). 
+Registration is free of charge, but please [register before December
+18th](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=oFgn10akD06gqkv5WkoQ5_VdOXLzHglMjIFQp5UoBmdUQkpMQlVIV0NGTUtNSklKMEQyVkVQUExOWS4u).
 Lunch and coffee will be provided.
 
 
