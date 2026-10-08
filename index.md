@@ -21,8 +21,11 @@ The FP Dag took place on January 8th 2027, in the
 of the Utrecht University's Library on the Utrecht Science Park. There
 is a tram nearby with regular trams to and from Utrecht CS.
 
+## Talks and schedule
 
-* Wouter Swierstra (w.s.swierstra@uu.nl)
+If you are interested in giving a talk or have any questions, please
+contact the Wouter Swierstra (w.s.swierstra@uu.nl). We will announce the
+final schedule shortly by the end of the year.
 
 
 ## Dinner
